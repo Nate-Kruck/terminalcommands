@@ -1,0 +1,44 @@
+```
+Terminal Commands Used:
+
+1. git clone https://github.com/Nate-Kruck/terminalcommands.git
+
+2. cd terminalcommands/
+
+3. mkdir src
+    - cd src/
+
+4. mkdir assets
+    - cd assets/
+        - mkdir style.css
+        - mkdir app.js
+        - cd ..
+
+5. mkdir index.html
+    - cd ..
+
+6. mkdir instructions.md
+
+7. mkdir greeting.md
+    - cd greeting.md/
+    - echo "Hello There" > greeting.md
+```
+
+# Coding Programs
+1. HTML
+1. CSS
+1. JavaScript
+
+## Favorite Colors
+* Red
+* Blue
+* Neon Green
+
+### **Bold** & _Italicized_ in _h_**3**
+
+|Name|Age|Height|
+|---|---|---|
+|Nathan|29|5'11|
+|Willow|27|5'10|
+|Rusko|6|10"|
+|Rex|2|8"|
